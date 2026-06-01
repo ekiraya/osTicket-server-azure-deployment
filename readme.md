@@ -5,3 +5,6 @@
 
 - placeholder
 
+<h2>List of Prerequisites</h2>
+
+The only prerequisite to follow this tutorial is to have an azure vm with ostickets installed on it, if you need a tutorial for that i recommend follow the
